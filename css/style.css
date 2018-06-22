@@ -3,13 +3,21 @@
     margin-top: 80px;
 }
 .image{
-  height: 50px;
-  width: 50px;
+  height: 90px;
+  width: 70px;
 }
 
 .image2{
-  height: 20px;
-  width: 20px;
+  height: 100px;
+  width: 80px;
+}
+.image1{
+
+    position: relative;
+    height: 35px;
+    margin-left:auto;
+    width: 70px;
+
 }
 .bg{
   background-: center;
