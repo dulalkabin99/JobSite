@@ -1,4 +1,26 @@
-div.down {
+.down {
     position: relative;
-    margin-top: 20px;
+    margin-top: 80px;
+}
+.image{
+  height: 50px;
+  width: 50px;
+}
+
+.image2{
+  height: 20px;
+  width: 20px;
+}
+.bg{
+  background-: center;
+  background: url(../img/backg.jpg) no-repeat;
+  background-size: cover;
+ background-position-x: center;
+  filter: alpha(opacity=50);
+}
+body{
+  background-image: url("../img/bg1.jpg");
+  background-size: cover;
+  background-position-x: center;
+  filter: alpha(opacity=50);
 }
